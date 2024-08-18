@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+button a {
+  text-decoration: none; /* remove o sublinhado */
+  color: inherit; /* usa a cor padrão do texto do elemento pai (normalmente preto) */
+}
